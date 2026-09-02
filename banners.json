@@ -1,0 +1,11 @@
+{
+  "interval": 5000,
+  "banners": [
+    {
+      "image": "banner1.png",
+      "alt": "Sangai Compressor",
+      "link": "",
+      "active": true
+    }
+  ]
+}
