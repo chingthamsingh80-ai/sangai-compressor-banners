@@ -1,17 +1,24 @@
 {
-  "interval": 15000,
+  "interval": 5000,
   "banners": [
+ Nen
     {
       "image": "banner1.png",
       "alt": "Sangai Compressor",
       "link": "",
-      "active": true
+      "active": true,
+      "order": 1,
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31"
     },
     {
       "image": "banner2.png",
-      "alt": "Advertisement",
+      "alt": "Advertisement banner",
       "link": "",
-      "active": true
+      "active": true,
+      "order": 2,
+      "start_date": "",
+      "end_date": ""
     }
   ]
 }
