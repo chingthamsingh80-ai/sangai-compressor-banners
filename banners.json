@@ -2,7 +2,7 @@
   "interval": 5000,
   "banners": [
     {
-      "image": "banner1.png",
+      "image": "banner2.png",
       "alt": "Sangai Compressor",
       "link": "",
       "active": true,
@@ -11,9 +11,9 @@
       "end_date": "2026-12-31"
     },
     {
-      "image": "banner2.png",
-      "alt": "Advertisement banner",
-      "link": "https://www.google.com",
+      "image": "banner3.png",
+      "alt": "Sangai",
+      "link": "",
       "active": true,
       "order": 2,
       "start_date": "",
