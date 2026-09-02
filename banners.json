@@ -6,6 +6,12 @@
       "alt": "Sangai Compressor",
       "link": "",
       "active": true
+    },
+    {
+      "image": "banner2.png",
+      "alt": "Advertisement",
+      "link": "",
+      "active": true
     }
   ]
 }
