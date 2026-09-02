@@ -13,7 +13,7 @@
     {
       "image": "banner2.png",
       "alt": "Advertisement banner",
-      "link": "",
+      "link": "https://www.google.com",
       "active": true,
       "order": 2,
       "start_date": "",
