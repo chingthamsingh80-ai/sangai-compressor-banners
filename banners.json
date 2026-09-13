@@ -4,7 +4,7 @@
     {
       "image": "banner2.png",
       "alt": "Sangai Compressor",
-      "link": "",
+      "link": "https://www.facebook.com/profile.php?id=61593958534720",
       "active": true,
       "order": 1,
       "start_date": "2026-09-01",
@@ -16,8 +16,8 @@
       "link": "https://www.facebook.com/profile.php?id=61593958534720",
       "active": true,
       "order": 2,
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-12-31",
+      "end_date": "2027-12-31"
     }
   ]
 }
